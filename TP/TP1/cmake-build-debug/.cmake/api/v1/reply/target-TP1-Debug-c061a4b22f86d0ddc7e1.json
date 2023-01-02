@@ -46,13 +46,16 @@
 			[
 				{
 					"fragment" : "-g -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu11"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "C:/Users/natha/Documents/L3 3eme/Info601/TP/TP1/."
+					"path" : "C:/Users/natha/Documents/L3/Info601/TP/TP1/."
 				}
 			],
 			"language" : "C",
